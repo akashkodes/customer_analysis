@@ -15,4 +15,5 @@ These are just a few examples of the diverse insights that businesses can utiliz
 
 
 
-![Customer analysis](https://github.com/akashkodes/customer-analysis/assets/128107742/f6a65618-9126-4b04-9b7d-313e47b96e56)
+![image](https://github.com/akashkodes/customer-analysis/assets/128107742/e19bea72-1c16-4874-b79f-c871cce41887)
+
