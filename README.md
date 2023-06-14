@@ -14,4 +14,5 @@ The dataset comprises sales data for various commodities across the United State
 These are just a few examples of the diverse insights that businesses can utilize to improve efficiency and increase profits. (The datasource and detailed steps to build this dashboard is provided by Stanley George Joseph)
 
 
-![image](https://github.com/akashkodes/customer-analysis/assets/128107742/c6df21fe-56b3-41ec-9bbb-26b4cee80799)
+
+![Customer analysis](https://github.com/akashkodes/customer-analysis/assets/128107742/f6a65618-9126-4b04-9b7d-313e47b96e56)
