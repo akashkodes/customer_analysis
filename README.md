@@ -11,7 +11,7 @@ The dataset comprises sales data for various commodities across the United State
 
 4) Leveraging gender-based sales analysis for marketing decisions: The data shows that females in Wisconsin spend 50% more on entertainment than males. Although the dataset only includes information for two genders, exploring sales across individuals with diverse gender identities would provide further valuable insights.
 
-These are just a few examples of the diverse insights that businesses can utilize to improve efficiency and increase profits. (The datasource and detailed steps to build this dashboard is provided by Stanley George Joseph)
+These are just a few examples of the diverse insights that businesses can utilize to improve efficiency and increase profits. (The datasource is provided by Stanley George Joseph)
 
 
 
